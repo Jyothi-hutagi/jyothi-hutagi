@@ -11,7 +11,7 @@
 
 - 👨‍💻 &nbsp; All of my projects are available at https://github.com/Jyothi-hutagi
 
-- 💬 &nbsp; Ask me about ** React, Next.js, Typescript, Tailwind CSS, Bootstrap, PHP, Laravel, Node.js, Express.js, MongoDB**
+- 💬 &nbsp; Ask me about ** React, Next.js, Typescript, Tailwind CSS, Bootstrap, Node.js, Express.js, MongoDB**
 
 - 📫 &nbsp; How to reach me **jyothihutagi@gmail.com**
 
@@ -29,7 +29,7 @@
 <a href="https://www.youtube.com/@jyothihutagi9789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jyothihutagi9789" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jyothihutagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jyothihutagi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jyothihutagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyothihutagi" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@jyothihutagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jyothihutagi" height="30" width="40" /></a>
+
 </p>
 
 <br/>
