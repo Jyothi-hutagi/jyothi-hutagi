@@ -4,6 +4,7 @@
 <br/>
 
 - 🌱 &nbsp; I’m currently learning **Next.js, TypeScript, Tailwind CSS, Webflow**
+- 🌐 &nbsp; Check out my portfolio: **https://jyothihutagi.com**
 - 👨‍💻 &nbsp; All of my projects are available at **https://github.com/Jyothi-hutagi**
 - 💬 &nbsp; Ask me about **React, Next.js, TypeScript, Tailwind CSS, Bootstrap, Node.js, Express.js, MongoDB**
 - 📫 &nbsp; Reach me at **jyothihutagi@gmail.com**
